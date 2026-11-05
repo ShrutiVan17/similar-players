@@ -1,0 +1,33 @@
+{
+  "players_tested": 152,
+  "players_used_for_tuning": 152,
+  "tuning_median_rank": {
+    "scaled features": 4.5,
+    "pca 9": 6.0
+  },
+  "chosen_on_tuning_players": "scaled features",
+  "random_guess": {
+    "top_1": 0.007,
+    "top_5": 0.033,
+    "top_10": 0.066,
+    "median_rank": 76.5
+  },
+  "scaled_features": {
+    "top_1": 0.243,
+    "top_5": 0.507,
+    "top_10": 0.605,
+    "median_rank": 5.0
+  },
+  "scaled_features_no_teammates": {
+    "top_1": 0.243,
+    "top_5": 0.513,
+    "top_10": 0.605,
+    "median_rank": 5.0
+  },
+  "pca": {
+    "top_1": 0.171,
+    "top_5": 0.375,
+    "top_10": 0.507,
+    "median_rank": 10.0
+  }
+}
